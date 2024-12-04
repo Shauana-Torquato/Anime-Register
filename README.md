@@ -5,7 +5,7 @@
  <li>JAVA, Gradle</li></br>
  <li>System to enroll animes with the functions: add anime, list all, list the ones I watched, List the ones I want to Watch, quit</li></br>
  <li>The "add" function must to require for: 
- <ol>
+ <ol> </br>
    <li>name of the anime</li></br>
    <li>genre</li></br>
    <li>if already watched it or not</li></br>
@@ -20,3 +20,14 @@
  <li>If the anime gets a 'yes' to the 'concluded' question, it needs to show 'concluded' as status, if it gets 'no', the status needs to be 'on going'</li></br>
   <li>The lists must show only the name of the anime</li></br>
 </ul>
+
+<h2>Next Steps</h2>
+
+<ol>
+ <li>Fix where I misspelled 'gender" for 'genre', the anime genre, not the anime gender</li></br>
+ <li>Work on the graphic interface</li></br>
+ <li>Implement the percistance of the data in this system/code</li></br>
+ <li>Make the names on the lists that are presented to be clickable</li></br>
+ <li>Make that whenever the name of the anime get clicked, it shows the other information that were enrolled on the add step</li></br>
+ <li>Implement the 'delete anime' and 'edit anime' functions</li></br>
+</ol>
